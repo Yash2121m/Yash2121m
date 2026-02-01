@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Yash2121m<br>👀 I’m interested in Android App Development / Flutter Development<br>🌱 I’m currently learning Android <br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me : yashspatil2005@gmail.com<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
+👋 Hi, I’m @Yash2121m<br>👀 I’m interested in Android App Development / Flutter Development<br>🌱 I’m currently learning Android <br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me : yashspatil2005@gmail.com<br>😄 Pronouns: He/Him.<br>
 
 
 ## 🌐 Socials:
