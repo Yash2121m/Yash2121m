@@ -1,5 +1,12 @@
+# 👋 Hi there, I'm Yash Patil  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Android+App+Developer;Clean+Architecture+%7C+BLoC;Building+Scalable+Mobile+Apps" />
+</p>
+
+---
+
 # 💫 About Me:
-👋 Hi, I’m **Yash Patil**  
 💻 Flutter Developer with **1+ year of experience** building scalable mobile applications  
 
 🚀 I specialize in:
@@ -88,7 +95,6 @@ Focused on **performance optimization, modular code, and real-time data handling
 ![](https://github-readme-stats.vercel.app/api?username=Yash2121m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash2121m&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash2121m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ---
 
