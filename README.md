@@ -85,11 +85,10 @@ Focused on **performance optimization, modular code, and real-time data handling
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yash2121m&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Yash2121m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yash2121m&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash2121m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Yash2121m&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash2121m&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
