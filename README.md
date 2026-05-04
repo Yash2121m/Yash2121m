@@ -108,10 +108,10 @@ Focused on **performance optimization, modular code, and real-time data handling
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  srcset="https://raw.githubusercontent.com/Yash2121m/Yash2121m/output/pacman-contribution-graph-dark.svg">
   
   <img alt="pacman contribution graph" 
-  src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  src="https://raw.githubusercontent.com/Yash2121m/Yash2121m/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
