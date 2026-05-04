@@ -104,6 +104,15 @@ Focused on **performance optimization, modular code, and real-time data handling
 - Advanced Flutter Performance Optimization  
 
 ---
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## ✨ Fun Fact:
 I enjoy turning complex ideas into **smooth, scalable mobile apps 🚀**
